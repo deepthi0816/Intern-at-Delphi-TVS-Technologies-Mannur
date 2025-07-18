@@ -57,7 +57,7 @@ This internship at **Delphi TVS Technologies** provided hands-on exposure in ele
 
 ## 📁 Files
 
-- 'Internship_Report.pdf': Full report
+- 'full report (internship)'.pdf': Full report
 - 'README.md': GitHub summary
 
 ---
